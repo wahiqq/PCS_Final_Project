@@ -75,12 +75,4 @@ These optimizations improved computational efficiency and minimized memory overh
 5. **Review output** for computed derivatives, profiling results, and coverage statistics.
 
 ---
-
-## Team Contributions
-- **Viney Jain:** Primary developer for the Euler and Runge-Kutta implementations, code optimization, and memory profiling.  
-- **Wahiq Iqbal:** Led systems thinking documentation, SRS creation, acceptance criteria definition, and overall project planning.
-
 We hope this README gives a clear overview of our project scope, system documentation, implementation details, and optimizations. If you have any questions or feedback, feel free to reach out to our team!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/3481206/e4e03189-2c2b-456b-8cca-ffac895a7385/paste.txt
